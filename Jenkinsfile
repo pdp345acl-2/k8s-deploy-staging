@@ -64,8 +64,7 @@ pipeline {
         }
       }
     }
-
-    
+ 
     // DO NOT uncomment until 10_01 Lab
     /*
     stage('Staging Warm Up') {
